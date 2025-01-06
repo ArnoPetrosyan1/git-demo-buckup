@@ -3,8 +3,3 @@ Second row
 
 Third row
 
-New couplet new row 1
-New couplet new row 2
-
-Third couplet new row 1
-Third couplet new row 2
